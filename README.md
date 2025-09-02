@@ -36,8 +36,10 @@ This dashboard offers an interactive and visual representation of business data.
 
 ---
 
-## 📸 Dashboard Preview
-> Add a screenshot of your dashboard here after exporting an image from Power BI.  
-```markdown
-![TrendTrack Dashboard Preview](screenshot.png)
+## 🚀 Getting Started
+
+1. **Clone or download** this repository.  
+   ```bash
+   git clone https://github.com/anasxzahid/Zomato_Analytics_Dashboard.git
+
 
