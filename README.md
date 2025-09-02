@@ -40,6 +40,6 @@ This dashboard offers an interactive and visual representation of business data.
 
 1. **Clone or download** this repository.  
    ```bash
-   git clone https://github.com/anasxzahid/Zomato_Analytics_Dashboard.git
+   git clone https://github.com/anasxzahid/TrendTrack_ECommerce_Dashboard.git
 
 
