@@ -1,5 +1,5 @@
 ### Simple UI
-<img src='https://github.com/anasxzahid/Zomato_Analytics_Dashboard/blob/main/Zomato%20Dashboard%20Screenshot.png'>
+<img src='https://github.com/anasxzahid/TrendTrack_ECommerce_Dashboard/blob/main/TrendTrack%20Dashboard%20Screenshot.png'>
 
 # 📊 TrendTrack ECommerce Dashboard
 
