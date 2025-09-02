@@ -1,3 +1,6 @@
+### Simple UI
+<img src='https://github.com/anasxzahid/Zomato_Analytics_Dashboard/blob/main/Zomato%20Dashboard%20Screenshot.png'>
+
 # 📊 TrendTrack ECommerce Dashboard
 
 The **TrendTrack ECommerce Dashboard** is a Power BI project designed to provide clear insights into key business trends, performance indicators, and data-driven decision-making. It helps stakeholders track growth patterns, identify improvement areas, and forecast future opportunities.
